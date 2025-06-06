@@ -1,0 +1,7 @@
+To do:
+
+Implement Hyperparameter Tuining
+Try Model Selection
+Try downsampling
+Try to address teh overfitting
+Try Startified k fold CV
