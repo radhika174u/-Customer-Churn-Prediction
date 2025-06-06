@@ -1,0 +1,14 @@
+🛠️ Tech Stack
+Language: Python
+
+Libraries: scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+PIL
+imblearn
+pickle
+
+Jupyter Notebook for development
